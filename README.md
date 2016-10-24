@@ -14,7 +14,7 @@ Administrator actions
 ---------------------
 
 - add books
-- edit books
+- edit books (including 'borrowed' status)
 - delete books (or simply make unavailable for borrowing)
 - list books
 - filter and/or sort book list for example to see which books have been borrowed for very long
